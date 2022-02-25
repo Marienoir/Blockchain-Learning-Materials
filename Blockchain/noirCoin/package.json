@@ -2,7 +2,8 @@
   "dependencies": {
     "crypto-js": "^4.1.1"
   },
+  "main": "index.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node src/index.js"
   }
 }
